@@ -1,2 +1,8 @@
 # Supplementary Material
 This supplementary material is composed of two parts: interview and survey.
+
+The organization of the statistical analysis data and scripts is structured as follows:
+
+RQ1 and RQ2 Zip Files.
+- Input data: Located within their respective folders, such as "00_Generation_Gender," containing the raw data for analysis.
+- Analysis output and scripts: Available within the result folder, for instance, "00_Result_Generation_Gender," encompassing both the scripts utilized for analysis and the resulting outputs, including mosaic charts.
