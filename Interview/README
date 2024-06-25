@@ -3,4 +3,4 @@ The interview data is composed of:
  - protocol: prompts used for the interviews (SE and CEOS)
  - transcription: full transcription of each interview conducted during the study
  - Turnover_coding_ceo.qdp and Turnover_coding_pro.qdp: qdp files with the final codebook of the study
- - participants-background.xlsx: Software engineers' and CEOs' demographics
+ - Interview-turnover-demographics.pdf: Software engineers' and CEOs' demographics
