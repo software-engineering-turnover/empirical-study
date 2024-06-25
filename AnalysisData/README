@@ -1,6 +1,8 @@
 The analysis data is composed of:
-  -
-  -
+  - Findings about turnover reasons in spreadsheet format;
+  - Findings about strategies used by CEOs to reduce turnover (from the point of view of Software Engineers) in spreadsheet format;
+  - A report about strategies to reduce turnover resulting from interviews with CEOs. 
+  - All the data collected from the survey and its initial analyses. 
 
 The organization of the statistical analysis data and scripts is structured as follows:
 
